@@ -19,15 +19,15 @@
 2) How To Learn Programming & Programming Skills
 3) How Can I Be A Good/Excellent Programmer
 4) More details on Java
-4) 1) Platform Independence In Java - WORA & WOCA
-4) 2)	Java And Internet - Creating Java Applet
-1.4.3	What Is Servlet In Java?
-1.4.4	Java Bytecode
-1.4.5	Java Buzzwords
-1.4.6	JDK JRE JVM JIT - Java Compiler
-1.4.7	Java Versions And Changes Done In Every Version
-1.4.8	Java Keywords
-1.5	Simple Programs and Development environment
+   1) Platform Independence In Java - WORA & WOCA
+   2)	Java And Internet - Creating Java Applet
+   3)	What Is Servlet In Java?
+   4) Java Bytecode
+   5) Java Buzzwords
+   6) JDK JRE JVM JIT - Java Compiler
+   7) Java Versions And Changes Done In Every Version
+   8) Java Keywords
+5) Simple Programs and Development environment
 1.5.1	Installation Of Java on your PC
 1.5.2	Java Sample Program - Simple Hello World Program In Java
 1.5.3	How to Compile and Run Java Program In Cmd Prompt
