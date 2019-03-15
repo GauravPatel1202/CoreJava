@@ -15,18 +15,18 @@
 # Core Java Topics & Basic Concepts Complete list
 
 # 1	Overview Of Programming With Java
-1) What Is Programming ? Why We Need Programming
-2) How To Learn Programming & Programming Skills
-3) How Can I Be A Good/Excellent Programmer
-4) More details on Java
-   1) Platform Independence In Java - WORA & WOCA
-   2)	Java And Internet - Creating Java Applet
-   3)	What Is Servlet In Java?
-   4) Java Bytecode
-   5) Java Buzzwords
-   6) JDK JRE JVM JIT - Java Compiler
-   7) Java Versions And Changes Done In Every Version
-   8) Java Keywords
+ 1) What Is Programming ? Why We Need Programming
+ 2) How To Learn Programming & Programming Skills
+ 3) How Can I Be A Good/Excellent Programmer
+ 4) More details on Java
+    1) Platform Independence In Java - WORA & WOCA
+    2) Java And Internet - Creating Java Applet
+    3) What Is Servlet In Java?
+    4) Java Bytecode
+    5) Java Buzzwords
+    6) JDK JRE JVM JIT - Java Compiler
+    7) Java Versions And Changes Done In Every Version
+    8) Java Keywords
 5) Simple Programs and Development environment
    1) Installation Of Java on your PC
    2) Java Sample Program - Simple Hello World Program In Java
@@ -66,17 +66,17 @@
   12)	Java Operator Precedence And Associativity
   13)	Temperature Conversion Program In Java
 # 5	Control Statements
-   1)	Control Statements In Java
-   2)	Selection Statements 
-       1) Selection Statements In Java
-       2) if Condition In Java
-       3) Nested if Statements In Java
-       4) if else if ladder In Java
-       5) switch Statement In Java
-       6) if else Vs switch Performance In Java
-       7) Nested switch Statements In Java
-       8) Fall Through Switch Case Statements In Java
-   3) Blocks of code
+    1) Control Statements In Java
+    2) Selection Statements 
+        1) Selection Statements In Java
+        2) if Condition In Java
+        3) Nested if Statements In Java
+        4) if else if ladder In Java
+        5) switch Statement In Java
+        6) if else Vs switch Performance In Java
+        7) Nested switch Statements In Java
+        8) Fall Through Switch Case Statements In Java
+    3) Blocks of code
 5.3.1	Block Of Code In Java
 5.3.2	Scope Of Variables In Nested/Multiple Blocks
 5.3.3	Lifetime Of Variable In Java
@@ -413,8 +413,8 @@
 22.11	Java Stream Benefits
 22.12	Conclusion To Input/Output (Exploring java.io)
 # 23	Other Core Java Topics
-23.1	Other Advanced Topics In Java
-23.2	Advanced Java Programming Concepts
+    1	Other Advanced Topics In Java
+    2	Advanced Java Programming Concepts
 
 
 #http://java.meritcampus.com/core-java-topics
