@@ -18,9 +18,9 @@
 1) What Is Programming ? Why We Need Programming
 2) How To Learn Programming & Programming Skills
 3) How Can I Be A Good/Excellent Programmer
-1.4)	More details on Java
-1.4.1	Platform Independence In Java - WORA & WOCA
-1.4.2	Java And Internet - Creating Java Applet
+4) More details on Java
+4) 1) Platform Independence In Java - WORA & WOCA
+4) 2)	Java And Internet - Creating Java Applet
 1.4.3	What Is Servlet In Java?
 1.4.4	Java Bytecode
 1.4.5	Java Buzzwords
