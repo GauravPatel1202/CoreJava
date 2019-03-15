@@ -28,24 +28,24 @@
    7) Java Versions And Changes Done In Every Version
    8) Java Keywords
 5) Simple Programs and Development environment
-1.5.1	Installation Of Java on your PC
-1.5.2	Java Sample Program - Simple Hello World Program In Java
-1.5.3	How to Compile and Run Java Program In Cmd Prompt
+   1) Installation Of Java on your PC
+   2) Java Sample Program - Simple Hello World Program In Java
+   3)	How to Compile and Run Java Program In Cmd Prompt
 # 2	Datatypes
-2.1	Data Types In Java
-2.2	Primtive Dataypes
-2.2.1	Primitive Data Types In Java
-2.2.2	Integer Data Types In Java
-2.2.3	Floating Point Data Types In Java
-2.2.4	Java Character
-2.2.5	Boolean Data Type In Java
-2.2.6	Literals
-2.2.6.1	Java Literals
-2.2.6.2	Integer Literals In Java
-2.2.6.3	Floating Point Literals In Java
-2.2.6.4	Character Literals In Java
-2.2.6.5	String Literal In Java
-2.2.6.6	Boolean Literals In Java
+1) Data Types In Java
+2) Primtive Dataypes
+    1) Primitive Data Types In Java
+    2) Integer Data Types In Java
+    3) Floating Point Data Types In Java
+    4) Java Character
+    5) Boolean Data Type In Java
+    6) Literals
+       1) Java Literals
+       2) Integer Literals In Java
+       3) Floating Point Literals In Java
+       4) Character Literals In Java
+       5) String Literal In Java
+       6) Boolean Literals In Java
 # 3	Variables
 3.1	Java Variables
 3.2	Scope Of Variables In Same Block
