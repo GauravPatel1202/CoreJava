@@ -1,8 +1,8 @@
 # CoreJava
 # Concepts from core Java:
 
-1) OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism)
-2) Basic Java constructs like loops and data types
+1) OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism);
+2) Basic Java constructs like loops and data types;
 3) String handling
 4) Collection framework
 5) Multithreading
