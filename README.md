@@ -15,9 +15,9 @@
 # Core Java Topics & Basic Concepts Complete list
 
 # 1	Overview Of Programming With Java
-1.1) What Is Programming ? Why We Need Programming
-1.2) How To Learn Programming & Programming Skills
-1.3) How Can I Be A Good/Excellent Programmer
+1) What Is Programming ? Why We Need Programming
+2) How To Learn Programming & Programming Skills
+3) How Can I Be A Good/Excellent Programmer
 1.4)	More details on Java
 1.4.1	Platform Independence In Java - WORA & WOCA
 1.4.2	Java And Internet - Creating Java Applet
