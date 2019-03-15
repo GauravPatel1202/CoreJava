@@ -1,24 +1,24 @@
 # CoreJava
 # Concepts from core Java:
 
-# OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism)
-# Basic Java constructs like loops and data types
-# String handling
-# Collection framework
-# Multithreading
-# Exception handling
-# Generics
-# Synchronisation
-# Serialisation & De-serialisation
-# Concurrent collection
+1) OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism)
+2) Basic Java constructs like loops and data types
+3) String handling
+4) Collection framework
+5) Multithreading
+6) Exception handling
+7) Generics
+8) Synchronisation
+9) Serialisation & De-serialisation
+10) Concurrent collection
 
 # Core Java Topics & Basic Concepts Complete list
 
 # 1	Overview Of Programming With Java
-1.1	What Is Programming ? Why We Need Programming
-1.2	How To Learn Programming & Programming Skills
-1.3	How Can I Be A Good/Excellent Programmer
-1.4	More details on Java
+1.1) 	What Is Programming ? Why We Need Programming
+1.2)	How To Learn Programming & Programming Skills
+1.3)	How Can I Be A Good/Excellent Programmer
+1.4)	More details on Java
 1.4.1	Platform Independence In Java - WORA & WOCA
 1.4.2	Java And Internet - Creating Java Applet
 1.4.3	What Is Servlet In Java?
