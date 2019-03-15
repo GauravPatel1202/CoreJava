@@ -47,36 +47,36 @@
        5) String Literal In Java
        6) Boolean Literals In Java
 # 3	Variables
-3.1	Java Variables
-3.2	Scope Of Variables In Same Block
-3.3	Type Conversion In Java
-3.4	Type Casting In Java
+   1) Java Variables
+   2)	Scope Of Variables In Same Block
+   3)	Type Conversion In Java
+   4)	Type Casting In Java
 # 4	Operators
-4.1	Operators In Java
-4.2	Java Arithmetic Operators
-4.3	Basic Arithmetic Operators In Java
-4.4	Increment And Decrement Operators In Java
-4.5	Modulus Operator In Java
-4.6	Arithmetic Compound Assignment Operators In Java
-4.7	Relational Operators In Java
-4.8	Boolean Logical Operators In Java
-4.9	Short Circuit Logical Operators In Java
-4.10	Assignment Operator In Java
-4.11	Ternary Operator In Java
-4.12	Java Operator Precedence And Associativity
-4.13	Temperature Conversion Program In Java
+   1)	Operators In Java
+   2)	Java Arithmetic Operators
+   3)	Basic Arithmetic Operators In Java
+   4)	Increment And Decrement Operators In Java
+   5)	Modulus Operator In Java
+   6)	Arithmetic Compound Assignment Operators In Java
+   7)	Relational Operators In Java
+   8)	Boolean Logical Operators In Java
+   9)	Short Circuit Logical Operators In Java
+  10)	Assignment Operator In Java
+  11)	Ternary Operator In Java
+  12)	Java Operator Precedence And Associativity
+  13)	Temperature Conversion Program In Java
 # 5	Control Statements
-5.1	Control Statements In Java
-5.2	Selection Statements
-5.2.1	Selection Statements In Java
-5.2.2	if Condition In Java
-5.2.3	Nested if Statements In Java
-5.2.4	if else if ladder In Java
-5.2.5	switch Statement In Java
-5.2.6	if else Vs switch Performance In Java
-5.2.7	Nested switch Statements In Java
-5.2.8	Fall Through Switch Case Statements In Java
-5.3	Blocks of code
+   1)	Control Statements In Java
+   2)	Selection Statements 
+       1) Selection Statements In Java
+       2) if Condition In Java
+       3) Nested if Statements In Java
+       4) if else if ladder In Java
+       5) switch Statement In Java
+       6) if else Vs switch Performance In Java
+       7) Nested switch Statements In Java
+       8) Fall Through Switch Case Statements In Java
+   3) Blocks of code
 5.3.1	Block Of Code In Java
 5.3.2	Scope Of Variables In Nested/Multiple Blocks
 5.3.3	Lifetime Of Variable In Java
